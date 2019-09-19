@@ -1,0 +1,19 @@
+20190916 Blad98
+
+creado usuario en github (Blad98)
+Creado repositorio: ed con readme.md y .gitignore (plantilla de java)
+Clonar en local: git clone https://github.com/Blad98/ed.git
+
+20190919 Blad98
+
+
+git config --global user.name Blad98
+git config --global user.email cargar03@alu.iesserpis.org
+git config --global push.default simple
+
+git add diario.txt
+git commit -m "diario.txt con informacion a github y git"
+git push
+
+git status-estado 
+git log-lista de versiones
