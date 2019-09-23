@@ -17,3 +17,20 @@ git push
 
 git status-estado 
 git log-lista de versiones
+
+20190923 Blad98
+
+VirtualBox:
+Serpis Dam: Ram 2048mb, disco 20 GB, Procesadores:2
+Usuario :administrador/sistemas
+equipo: serpisdam
+
+sudo -i (ser root)
+apt update 
+apt full-upgrade
+
+Hola mundo 
+gcc -o /nombre/ /archivo/
+ls -l
+./(nombre archivo)
+
