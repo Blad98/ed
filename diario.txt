@@ -29,7 +29,17 @@ sudo -i (ser root)
 apt update 
 apt full-upgrade
 
-Hola mundo 
+Hola mundo C:
+
+
+# include <stdio.h>
+
+int main(void) {
+	printf("Hola Mundo\n");
+	return 0;
+}
+
+
 gcc -o /nombre/ /archivo/
 ls -l
 ./(nombre archivo)
